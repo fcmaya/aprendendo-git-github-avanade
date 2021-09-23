@@ -15,3 +15,9 @@ Os headers são marcados com o símbolo '#'. Os mesmos têm 6 níveis que são i
 ##### h5
 
 ###### h6
+
+## Paragráfo com destaque
+
+Para escrever um texto com destaque
+
+> Texto com destaque
