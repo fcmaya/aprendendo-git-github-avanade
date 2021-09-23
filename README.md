@@ -16,13 +16,21 @@ Os headers são marcados com o símbolo '#'. Os mesmos têm 6 níveis que são i
 
 ###### h6
 
-## Paragráfo com destaque
+## Parágrafo com destaque
+Para escrever um parágrafo com destaque, utilizamos o símbolo >.
 
-Para escrever um texto com destaque
+> Esse é um parágrafo destacado do resto do texto. Esse aqui também. e assim por diante.
 
-> Texto com destaque
+Os paragráfos acima estão destacados do restante do texto escrito.
 
-## Os negrito e itálicos
+## Itálicos, Negritos e Negritos Itálicos
+Os negritos e itálicos são representados pelo símbolo * ou _.
+
+Uma palavra cercada por 1 asterisco em cada lado terá seu formato modificado para _itálico_.
+
+Uma palavra cercada por 2 asteriscos em cada lado terá seu formato modificado para **negrito**.
+
+Uma palavra cercada por 3 asteriscos em cada lado terá seu formato modificado para **_negrito/itálico_**.
 
 ## Criação de hyperlinks
 
