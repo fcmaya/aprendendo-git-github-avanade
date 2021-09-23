@@ -23,3 +23,8 @@ Para escrever um texto com destaque
 > Texto com destaque
 
 ## Os negrito e itálicos
+
+## Criação de hyperlinks
+
+A criação de hyperlinks é feita através dos símbolos [](). Onde o conteúdo dos colchetes é o texto que será exibido e o conteúdo do parênteses é o link a ser redirecionado.
+Ex: [Google](www.google.com)
