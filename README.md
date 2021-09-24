@@ -44,13 +44,19 @@ Para criar snippets de código (partes de código) basta utilizar o símbolo de 
 public static void main(String[] args){
 System.out.println("Teste de snippet");
 }
-``````python
+```
+
+```python
 def teste(){ }
-``````javascript
+```
+
+```javascript
 function bla(){
 document.getElementById("teste");
 }
-``````json
+```
+
+```json
 {
 "firstName": "John",
 "lastName": "Smith",
