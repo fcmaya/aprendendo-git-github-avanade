@@ -35,6 +35,7 @@ Uma palavra cercada por 3 asteriscos em cada lado terá seu formato modificado p
 ## Criação de hyperlinks
 
 A criação de hyperlinks é feita através dos símbolos [](). Onde o conteúdo dos colchetes é o texto que será exibido e o conteúdo do parênteses é o link a ser redirecionado.
+
 Ex: [Google](www.google.com)
 
 ## Criando snippets de código
@@ -73,3 +74,4 @@ Para criação de listas ordenadas, utiliza-se o número seguido de um ponto no 
 1. linha 1
 2. linha 2
 3. linha 3
+
